@@ -52,3 +52,13 @@ and building projects that turn imagination into reality.
 **"Curiosity is the beginning of creation."**
 
 </div>
+
+assets/quillwing-animation.gif
+
+<div align="center">
+  <img
+    src="./assets/quillwing-animation.gif"
+    alt="Quillwing's animated pixel-art developer workspace"
+    width="100%"
+  />
+</div>
