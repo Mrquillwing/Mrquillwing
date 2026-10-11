@@ -57,7 +57,7 @@ assets/quillwing-animation.gif
 
 <div align="center">
   <img
-    src="./assets/quillwing-animation.gif"
+    src="pixel-art-banner-loop.webm"
     alt="Quillwing's animated pixel-art developer workspace"
     width="100%"
   />
