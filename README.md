@@ -56,9 +56,7 @@ and building projects that turn imagination into reality.
 assets/quillwing-animation.gif
 
 <div align="center">
-  <img
-    src="pixel-art-banner-loop.webm"
-    alt="Quillwing's animated pixel-art developer workspace"
-    width="100%"
-  />
+
+    <img src="./assets/pixel-art-banner-loop.gif" width="100%" alt="Animated Pixel Art Banner">
+
 </div>
