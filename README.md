@@ -1,15 +1,12 @@
-<div align="center">
+ <div align="center">
 
-# ADRIAN ELSWARTH
+<!-- GitHub Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=ADRIAN%20ELSWARTH&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descSize=16&descAlignY=60" width="100%" />
 
-### AI & MACHINE LEARNING ENTHUSIAST
+<br>
 
-*High School Student · Programmer · Wandering Artist*
-
----
-
-Exploring intelligence through code.
-Creating experiences through imagination.
+<!-- High-Quality Text Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=450&lines=High+School+Student;Programmer;Wandering+Artist;Exploring+intelligence+through+code." alt="Typing SVG" /></a>
 
 </div>
 
