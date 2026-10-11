@@ -55,7 +55,7 @@ and building projects that turn imagination into reality.
 
 
 <div align="center">
-
-    <img src="./assets/pixel-art-banner-loop.gif" width="100%" alt="Animated Pixel Art Banner">
-
+  <img src="./assets/pixel-art-banner-loop.gif"
+       width="100%"
+       alt="My Animated Pixel Art Banner">
 </div>
