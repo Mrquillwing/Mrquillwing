@@ -46,7 +46,7 @@ and building projects that turn imagination into reality.
 
 - GitHub: https://github.com/adrian_elswarth
 - Reddit: https://www.reddit.com/u/Adriangray19/
-- Discord: Add your server invitation here
+- Discord:hhtps://discord.gg/5cdRC2jmt
 
 ---
 
