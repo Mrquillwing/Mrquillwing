@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- GitHub Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,40&height=200&section=header&text=ADRIAN%20ELSWARTH&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descSize=16&descAlignY=60" width="100%" />
+
 
 <br>
 
