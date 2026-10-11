@@ -53,7 +53,6 @@ and building projects that turn imagination into reality.
 
 </div>
 
-assets/quillwing-animation.gif
 
 <div align="center">
 
