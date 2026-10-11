@@ -1,35 +1,57 @@
-DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ADRIAN ELSWARTH — GitHub Banner Studio</title>
-    <style>
-        :root {
-            --bg-primary: #06110D;
-            --bg-secondary: #071B13;
-            --emerald-bright: #4BFFA0;
-            --mint-soft: #B8FFD1;
-            --text-main: #F3FFF8;
-            --text-secondary: #9BC9AD;
-        }
+<div align="center">
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+# ADRIAN ELSWARTH
 
-        body  
-</head>
-<body>
-    <div class="studio-container">
-        <header class="studio-header">
-            <h1>ADRIAN ELSWARTH</h1>
-            <p>GITHUB BANNER STUDIO</p>
-        </header>
+### AI & MACHINE LEARNING ENTHUSIAST
 
-        <div class="preview-wrapper">
-            <!-- BANNER ARTWORK CANVAS (Exact 1200 x 420 px) -->
-            <div id="github-banner" class="banner-canvas">
-             
+*High School Student · Programmer · Wandering Artist*
+
+---
+
+Exploring intelligence through code.
+Creating experiences through imagination.
+
+</div>
+
+---
+
+## About Me
+
+Hello! I'm Adrian Elswarth, a high school student
+interested in programming, Artificial Intelligence,
+Machine Learning, and creative technology.
+
+I enjoy exploring new ideas, experimenting with code,
+and building projects that turn imagination into reality.
+
+- Currently learning: AI, ML & Programming
+- Interests: Python, Web Development & Creative Coding
+- Philosophy: Learn, Experiment, Create.
+
+---
+
+## Areas of Interest
+
+| Field | Focus |
+|---|---|
+| Artificial Intelligence | Intelligent applications |
+| Machine Learning | Algorithms and data |
+| Programming | Python and JavaScript |
+| Web Development | React and creative interfaces |
+| Art | Digital art and visual storytelling |
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/adrian_elswarth
+- Reddit: https://www.reddit.com/u/Adriangray19/
+- Discord: Add your server invitation here
+
+---
+
+<div align="center">
+
+**"Curiosity is the beginning of creation."**
+
+</div>
