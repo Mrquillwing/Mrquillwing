@@ -2,7 +2,20 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D Developer Working" height="250"/>
 </p>
 
+### 👋 About Me
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+school+student+%26+developer;Passionate+about+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
+</p>
+
+- 🔭 I’m currently working on cool data science and AI projects.
+- 🌱 I’m currently expanding my skills in **Deep Learning and Cloud Computing**.
+- ⚡ Fun fact: I love coding, solving complex problems, and exploring how AI can shape the future!
+
+---
+
 ### 🛠️ Languages and Tools:
+
 #### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
