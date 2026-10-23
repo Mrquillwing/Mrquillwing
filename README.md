@@ -8,36 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+school+student+%26+developer;Passionate+about+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on cool data science and AI projects.
-- 🌱 I’m currently expanding my skills in **Deep Learning and Cloud Computing**.
-- ⚡ Fun fact: I love coding, solving complex problems, and exploring how AI can shape the future!
-
----
-
- Hi, I'm Md Abu Kayser 👋
-
-### Full-Stack Engineer | React · Next.js · Node.js · Go · TypeScript
-
-I build clean, type-safe, production-ready applications - and I'm currently open to **remote roles across the US, Canada, and the EU**.
-
-<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm rebuilding my engineering path through focused, production-minded work: open-source contributions, real deployed projects, and clean documented code — the kind of evidence that speaks louder than a resume.
-
-- 🔭 Currently building full-stack apps with **type safety, reliability, and clear architecture** in mind
-- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
-- 💼 Focused on **testable code** (unit + integration), **Dockerized deployments**, and **CI/CD**
-- 🎯 Long-term goal: **Dev** Community Monikers: **Unicorn Developer** | **10x Engineer**
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -51,35 +21,6 @@ I'm rebuilding my engineering path through focused, production-minded work: open
 | **DevOps**         | Docker, GitHub Actions, Vercel, Nginx                 |
 | **Testing & Auth** | Jest, Vitest, Supertest, JWT                          |
 
----
-
-## 📌 Featured Projects
-
-> Update each repo link and demo URL below once the project is live.
-
-### 🛒 Full-Stack E-Commerce Platform
-
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Docker
-A production-style store with authentication, sandbox payments, product admin, and full CI/CD.
-
-```bash
-git clone https://github.com/md-abu-kayser/<coming-soon>.git
-cd <coming-soon>
-cp .env.example .env
-docker-compose up --build
-```
-
-### 📊 Admin Dashboard
-
-**Stack:** React · TypeScript · Tailwind CSS · Vitest · Storybook
-A component-driven UI with documented components, accessibility support, and unit tests.
-
-### 🔐 Auth API
-
-**Stack:** Go · PostgreSQL · Docker · GitHub Actions
-A performant REST API featuring JWT auth, role-based access control, and automated tests.
-
----
 
 --->
 
