@@ -16,9 +16,10 @@
 
 | Category           | Languages                                         |
 | ------------------ | ----------------------------------------------------- |
-| **Frontend**       | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Languages**      | Python, Java,  JavaScript, Assembly,  Brainfuck,  C++,  C,  Swift |
+| **Frontend**       | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Three.js |
 | **Backend**        | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma     |
-| **DevOps**         | Docker, GitHub Actions, Vercel, Nginx                 |
+| **DevOps**         | Docker, GitHub Actions, Vercel, Netlify,  Nginx                 |
 | **Testing & Auth** | Jest, Vitest, Supertest, JWT                          |
 
 
