@@ -11,7 +11,7 @@
 ## ¤ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma,python,java,c,c++,threejs,supabase,firebase,sql," />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma,python,java,c,threejs,supabase,firebase,sql,chatgpt,gemini,grok,deepseek,meta," />
 </div>
 
 | Category           | Languages                                         |
