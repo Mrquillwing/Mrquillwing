@@ -79,48 +79,7 @@
   </a>
 </p>
 
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION ACTIVITY                   -->
-<!-- ========================================================= -->
-
-## ¤ Contribution Activity
-
-<div align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mrquillwing /Mrquillwing /output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mrquillwing /Mrquillwing/output/github-contribution-grid-snake.svg"
-  />
-
-<img
-    src="https://raw.githubusercontent.com/Mrquillwing/Mrquillwing/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Activity - Last 365 Days"
-    width="100%"
-  />
-
-</picture>
-
-</div>
-
-<!---
-
-## ¤ GitHub Engineering Stats
-
-<p align="center">
-  <img
-    height="500em"
-    src="https://github-readme-stats-psi-smoky-68.vercel.app.vercel.app/api?username=Mrquillwing&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&cache_seconds=1800"
-    alt="GitHub Engineering Stats"
-  />
-</p>
-
+<!-- 
 
 Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
 
