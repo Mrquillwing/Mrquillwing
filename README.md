@@ -81,7 +81,7 @@ I'm rebuilding my engineering path through focused, production-minded work: open
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma" />
 </div>
 
-| Category           | Technologies                                          |
+| Category           | Languages                                         |
 | ------------------ | ----------------------------------------------------- |
 | **Frontend**       | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
 | **Backend**        | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma     |
@@ -122,16 +122,16 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <div align="center">
 
-  <a href="https://github.com/md-abu-kayser">
+  <a href="https://github.com/Mrquillwing">
     <img
-      src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
+      src="https://komarev.com/ghpvc/?username=Mrquillwing&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
       alt="Profile Views"
     />
   </a>
 
-  <a href="https://github.com/md-abu-kayser?tab=followers">
+  <a href="https://github.com/Mrquillwing?tab=followers">
     <img
-      src="https://img.shields.io/github/followers/md-abu-kayser?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
+      src="https://img.shields.io/github/followers/Mrquillwing?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
       alt="Followers"
     />
   </a>
@@ -147,12 +147,12 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
     <img
-      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
+      src="https://streak-stats.demolab.com/?user=Mrquillwing&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
       alt="GitHub Engineering Streak"
       width="49%"
     />
   </a><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mrquillwing&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
     width="49%"
   />
@@ -165,10 +165,10 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 ## 📈 Contribution Analytics
 
 <p align="center">
-  <a href="https://github.com/md-abu-kayser">
+  <a href="https://github.com/Mrquillwing">
     <img
-      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=md-abu-kayser&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
-      alt="Md Abu Kayser's GitHub Contribution Analytics"
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Mrquillwing&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
+      alt="Mrquillwing GitHub Contribution Analytics"
       width="98%"
     />
   </a>
@@ -186,16 +186,16 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Mrquillwing /Mrquillwing /output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Mrquillwing /Mrquillwing/output/github-contribution-grid-snake.svg"
   />
 
 <img
-    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Mrquillwing/Mrquillwing/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Activity - Last 365 Days"
     width="100%"
   />
