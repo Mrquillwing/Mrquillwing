@@ -5,7 +5,7 @@
 ### ¤ About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+school+student+%26+developer;Passionate+about+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+school+student+I+am+an+Artist+,+I+really+loved+to+sloved+complex+problems+%26+developer;Passionate+about+Programming+Art%3C+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ## ¤ Tech Stack
