@@ -8,10 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+'s+student+I+am+an+Artist+%26+developer;Passionate+about+Programming+Art%3C+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+'s+student+I+am+an+Artist+%26+developer;Passionate+about+Programming+Art%3C+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+'s+student+I+am+an+Artist+%26+developer;Passionate+about+Programming+Art%3C+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
+</p>
+
 ## ¤ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma,python,java,c,threejs,supabase,firebase,sql,chatgpt,gemini,grok,deepseek,meta," />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma,python,java,c,threejs,supabase,firebase,sql" />
 </div>
 
 | Category           | Languages                                         |
