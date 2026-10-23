@@ -115,24 +115,11 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&cache_seconds=1800"
+    src="https://github-readme-stats-psi-smoky-68.vercel.app.vercel.app/api?username=Mrquillwing&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&cache_seconds=1800"
     alt="GitHub Engineering Stats"
   />
 </p>
 
---->
-
-<!---
-
-## ¤ Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abu.kayser.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
-
-</div>
 
 Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
 
@@ -140,9 +127,8 @@ Want to collaborate? Open an issue on any repo or reach out directly - I review 
 
 <div align="center">
 
-📄 Licensed under [MIT](./LICENSE) unless otherwise noted per repo.
 
-_Fun fact: I enjoy untangling gnarly coding challenges in my spare time._
+_Fun fact:I am an artist! (>¤<)_
 
 </div>
 
