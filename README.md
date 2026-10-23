@@ -2,13 +2,13 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjdTE5MWFicTZsOWpkaGY3YW5zM2xjODhqMzlrb3hmM2JtMW8xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRwEAOdfiCkHjw1DWB/giphy.gif" width="100%" />
 </p>
 
-### 👋 About Me
+### ¤ About Me
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+high+school+student+%26+developer;Passionate+about+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
 </p>
 
-## 🛠️ Tech Stack
+## ¤ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma" />
@@ -46,7 +46,7 @@
 <!--               GITHUB ENGINEERING STATS                    -->
 <!-- ========================================================= -->
 
-## 📊 GitHub Engineering Stats
+## ¤ GitHub Engineering Stats
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
@@ -66,7 +66,7 @@
 <!--                  CONTRIBUTION ANALYTICS                   -->
 <!-- ========================================================= -->
 
-## 📈 Contribution Analytics
+## ¤ Contribution Analytics
 
 <p align="center">
   <a href="https://github.com/Mrquillwing">
@@ -82,7 +82,7 @@
 <!--                  CONTRIBUTION ACTIVITY                   -->
 <!-- ========================================================= -->
 
-## 🐍 Contribution Activity
+## ¤ Contribution Activity
 
 <div align="center">
 
@@ -110,7 +110,7 @@
 
 <!---
 
-## 📊 GitHub Engineering Stats
+## ¤ GitHub Engineering Stats
 
 <p align="center">
   <img
@@ -124,7 +124,7 @@
 
 <!---
 
-## 🤝 Let's Connect
+## ¤ Let's Connect
 
 <div align="center">
 
