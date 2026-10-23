@@ -54,12 +54,12 @@
     <img
       src="https://streak-stats.demolab.com/?user=Mrquillwing&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
       alt="GitHub Engineering Streak"
-      width="49%"
+      width="59%"
     />
   </a><img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mrquillwing&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
-    width="49%"
+    width="59%"
   />
 </p>
 
@@ -78,12 +78,10 @@
     />
   </a>
 </p>
-
-<!-- 
+ 
+<div>
 
 Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
-
----
 
 <div align="center">
 
