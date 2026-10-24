@@ -51,11 +51,6 @@
 ## ¤ GitHub Engineering Stats
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=Mrquillwing&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics for Mrquillwing" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrquillwing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages across public repositories" />
-</p>
-
-<p align="center">
   <a href="https://streak-stats.demolab.com/">
     <img
       src="https://streak-stats.demolab.com/?user=Mrquillwing&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
