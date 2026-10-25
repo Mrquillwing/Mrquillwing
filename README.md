@@ -12,7 +12,7 @@
 ## ¤ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma,python,java,c,threejs,supabase,firebase,sql" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,linux,android,TypeScript,tailwind,html,css,figma,python,java,c,threejs,rust,supabase,firebase,sql" />
 </div>
 
 | Category           | Languages                                         |
